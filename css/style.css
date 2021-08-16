@@ -1,0 +1,177 @@
+.navitems {
+  display: inline-block;
+  margin-top: 8px;
+  margin-right: 23px;
+  font-family: 'Anton', sans-serif;
+  font-size: 22px;
+}
+.logo {
+  display: inline-block;
+  margin-left: 20px;
+  margin-right: 92px;
+}
+.menu {
+  position: fixed;
+  top: 0;
+  background-color: #F6F8F9;
+  width: 100%;
+  z-index: 2;
+}
+h1 {
+  margin-bottom: 40px;
+  margin-top: 110px;
+  font-size: 24px;
+  font-family: 'Anton', sans-serif;
+}
+/* მთავარი სექცია */
+.main-div {
+  width: 1300px;
+  margin-left: auto;
+  margin-top: 40px;
+  margin-right: auto;
+}
+.body-color {
+  background-color: #F6F8F9;
+}
+.left-div {
+  width: 360px;
+  height: 350px;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 20px;
+  background-color: #FFFFFF;
+  position: relative;
+}
+.middle-div {
+  width: 360px;
+  height: 350px;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 20px;
+  background-color: #FFFFFF;
+  position: relative;
+}
+.right-div {
+  width: 360px;
+  height: 350px;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 20px;
+  background-color: #FFFFFF;
+  position: relative;
+}
+.mst {
+  margin-top: 60px;
+  margin-left: 40px;
+}
+/* მეორე სექცია */
+.div-main2 {
+  width: 1300px;
+  height: 960px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.div-left2 {
+  display: inline-block;
+  width: 760px;
+  height: 900px;
+  position: relative;
+}
+.div-right {
+  display: inline-block;
+  width: 360px;
+  height: 896px;
+  margin-left: 40px;
+}
+.bridge {
+  margin-bottom: 30px;
+}
+.ele {
+  margin-bottom: 70px;
+}
+.par {
+  margin-bottom: 70px;
+}
+.ro {
+  margin-bottom: 70px;
+}
+/* Footer */
+.footer {
+  height: 200px;
+  background-color: #A6ADB4;
+  margin-top: 37px;
+}
+.div-footer {
+  width: 1300px;
+  height: 86px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.logo2 {
+  margin-top: 54px;
+  display: inline-block;
+  vertical-align: top;
+}
+.divul {
+  display: inline-block;
+  width: 500px;
+  height: 91px;
+  margin-top: 54px;
+  margin-left: 91.1px;
+  margin-bottom: 55px;
+  vertical-align: top;
+}
+.ul1, .ul2, .ul3 {
+  display: inline-block;
+  margin-right: 96.7px;
+  color: #CBD0D3;
+  font-size: 13px;
+}
+.footer-ending {
+  display: inline-block;
+  color: #CBD0D3;
+  font-size: 11px;
+  margin-top: 62px;
+  font-family: 'sans serif';
+}
+.insta {
+  display: inline-block;
+  width: 160px;
+  height: 16px;
+  margin-left: 165.2px;
+}
+.instagram {
+  padding-right: 25px;
+}
+.twitter {
+  padding-right: 25px;
+}
+.facebook {
+  padding-right: 25px;
+}
+.text-on-image1, .text-on-image2, .text-on-image3 {
+ position: absolute;
+ top: 50px;
+ left: 50px;
+ color: #fff;
+ size: 16px;
+}
+.text-bridge {
+  position: absolute;
+  top: 210px;
+  left: 300px;
+  color: #fff;
+}
+.time {
+  margin-right: 25px;
+  margin-bottom: 40px;
+  margin-top: 45px;
+  color: #A6ADB4;
+  display: inline-block;
+  font-size: 13px;
+}
+.time-1 {
+  margin-left: 40px;
+  display: inline-block;
+}
